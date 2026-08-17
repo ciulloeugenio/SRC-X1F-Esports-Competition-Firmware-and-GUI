@@ -1,11 +1,11 @@
-# SRC X1F-ESPORTS — Firmware USB HID & GUI
+﻿# SRC-X1F ESPORTS — Firmware USB HID & GUI
 
 > **Versione Firmware Competition Mode**  
 > **Designed and Engineered by Eugenio Ciullo**
 
-Pacchetto pronto all'uso contenente il firmware precompilato a 16-bit (`0 .. 32767`) e l'applicazione desktop di calibrazione per la pedaliera professionale **SRC X1F-ESPORTS** (basata su Arduino Leonardo / ATmega32U4 e ADC ADS1115).
+Pacchetto pronto all'uso contenente il firmware precompilato a 16-bit (`0 .. 32767`) e l'applicazione desktop di calibrazione per la pedaliera professionale **SRC-X1F ESPORTS** (basata su Arduino Leonardo / ATmega32U4 e ADC ADS1115).
 
-La periferica viene riconosciuta nativamente da Windows (`joy.cpl`) e da tutti i simulatori (*Assetto Corsa, iRacing, ACC, rFactor 2, Automobilista 2, Le Mans Ultimate, F1, ecc.*) come **periferica di gioco DirectInput a 16-bit** con il nome ufficiale **`SRC X1F-ESPORTS`**.
+La periferica viene riconosciuta nativamente da Windows (`joy.cpl`) e da tutti i simulatori (*Assetto Corsa, iRacing, ACC, rFactor 2, Automobilista 2, Le Mans Ultimate, F1, ecc.*) come **periferica di gioco DirectInput a 16-bit** con il nome ufficiale **`SRC-X1F ESPORTS`**.
 
 ---
 
